@@ -35,22 +35,12 @@
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "487685210";
+    const serviceWorkerVersion = "2331803176";
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
 
-  <script>
-    document.addEventListener("environment_loaded", function () {
-      var script = document.createElement("script");
-
-      var gmapKey = window.gmapskey;
-
-      script.src = "https://maps.googleapis.com/maps/api/js?key=" + gmapKey;
-
-      document.head.appendChild(script);
-    });
-  </script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC0s_YooJAsoshAu3pc6urELjr5ZmQTBvA"></script>
 </head>
 
 <body>
