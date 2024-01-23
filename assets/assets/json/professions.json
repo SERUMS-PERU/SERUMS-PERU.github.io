@@ -1,0 +1,128 @@
+[
+  {
+    "_id": "65647cad2433928f87a2c091",
+    "description": "BIOLOGIA",
+    "createdAt": "2023-11-27T11:25:33.854Z",
+    "updatedAt": "2023-11-27T11:25:33.854Z",
+    "__v": 0
+  },
+  {
+    "_id": "65647caf2433928f87a2c2c7",
+    "description": "ENFERMERIA",
+    "createdAt": "2023-11-27T11:25:35.024Z",
+    "updatedAt": "2023-11-27T11:25:35.024Z",
+    "__v": 0
+  },
+  {
+    "_id": "65647cba2433928f87a2d8ed",
+    "description": "INGENIERIA SANITARIA",
+    "createdAt": "2023-11-27T11:25:46.584Z",
+    "updatedAt": "2023-11-27T11:25:46.584Z",
+    "__v": 0
+  },
+  {
+    "_id": "65647cba2433928f87a2d8f5",
+    "description": "MEDICINA",
+    "createdAt": "2023-11-27T11:25:46.600Z",
+    "updatedAt": "2023-11-27T11:25:46.600Z",
+    "__v": 0
+  },
+  {
+    "_id": "65647cc22433928f87a2e7ee",
+    "description": "MEDICINA CON ESPECIALIDAD",
+    "createdAt": "2023-11-27T11:25:54.219Z",
+    "updatedAt": "2023-11-27T11:25:54.219Z",
+    "__v": 0
+  },
+  {
+    "_id": "65647cc22433928f87a2e7f6",
+    "description": "MEDICINA VETERINARIA",
+    "createdAt": "2023-11-27T11:25:54.232Z",
+    "updatedAt": "2023-11-27T11:25:54.232Z",
+    "__v": 0
+  },
+  {
+    "_id": "65647cc22433928f87a2e83b",
+    "description": "NUTRICION",
+    "createdAt": "2023-11-27T11:25:54.367Z",
+    "updatedAt": "2023-11-27T11:25:54.367Z",
+    "__v": 0
+  },
+  {
+    "_id": "65647cc32433928f87a2eaf3",
+    "description": "OBSTETRICIA",
+    "createdAt": "2023-11-27T11:25:55.717Z",
+    "updatedAt": "2023-11-27T11:25:55.717Z",
+    "__v": 0
+  },
+  {
+    "_id": "65647cca2433928f87a2f754",
+    "description": "ODONTOLOGIA",
+    "createdAt": "2023-11-27T11:26:02.043Z",
+    "updatedAt": "2023-11-27T11:26:02.043Z",
+    "__v": 0
+  },
+  {
+    "_id": "65647ccd2433928f87a2fd62",
+    "description": "PSICOLOGIA",
+    "createdAt": "2023-11-27T11:26:05.112Z",
+    "updatedAt": "2023-11-27T11:26:05.112Z",
+    "__v": 0
+  },
+  {
+    "_id": "65647ccf2433928f87a301a3",
+    "description": "QUIMICO FARMACEUTICO",
+    "createdAt": "2023-11-27T11:26:07.213Z",
+    "updatedAt": "2023-11-27T11:26:07.213Z",
+    "__v": 0
+  },
+  {
+    "_id": "65647cd02433928f87a30386",
+    "description": "TM - LABORATORIO CLINICO",
+    "createdAt": "2023-11-27T11:26:08.198Z",
+    "updatedAt": "2023-11-27T11:26:08.198Z",
+    "__v": 0
+  },
+  {
+    "_id": "65647cd12433928f87a30529",
+    "description": "TM - OPTOMETRIA",
+    "createdAt": "2023-11-27T11:26:09.027Z",
+    "updatedAt": "2023-11-27T11:26:09.027Z",
+    "__v": 0
+  },
+  {
+    "_id": "65647cd12433928f87a30531",
+    "description": "TM - RADIOLOGIA",
+    "createdAt": "2023-11-27T11:26:09.042Z",
+    "updatedAt": "2023-11-27T11:26:09.042Z",
+    "__v": 0
+  },
+  {
+    "_id": "65647cd12433928f87a3058e",
+    "description": "TM - TERAPIA FISICA",
+    "createdAt": "2023-11-27T11:26:09.217Z",
+    "updatedAt": "2023-11-27T11:26:09.217Z",
+    "__v": 0
+  },
+  {
+    "_id": "65647cd12433928f87a3060a",
+    "description": "TRABAJO SOCIAL",
+    "createdAt": "2023-11-27T11:26:09.435Z",
+    "updatedAt": "2023-11-27T11:26:09.435Z",
+    "__v": 0
+  },
+  {
+    "_id": "65647d532433928f87a3df1f",
+    "description": "TM - TERAPIA LENGUAJE",
+    "createdAt": "2023-11-27T11:28:19.452Z",
+    "updatedAt": "2023-11-27T11:28:19.452Z",
+    "__v": 0
+  },
+  {
+    "_id": "65647d552433928f87a3e1e9",
+    "description": "TM - TERAPIA OCUPACIONAL",
+    "createdAt": "2023-11-27T11:28:21.177Z",
+    "updatedAt": "2023-11-27T11:28:21.177Z",
+    "__v": 0
+  }
+]
