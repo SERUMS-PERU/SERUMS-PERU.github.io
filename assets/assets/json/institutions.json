@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "65647a662433928f879f241f",
+    "description": "NINGUNO",
+    "createdAt": "2023-11-27T11:15:50.350Z",
+    "updatedAt": "2023-11-27T11:15:50.350Z",
+    "__v": 0
+  },
+  {
+    "_id": "65647cbb2433928f87a2dbac",
+    "description": "SANIDAD DEL EJERCITO DEL PERU",
+    "createdAt": "2023-11-27T11:25:47.895Z",
+    "updatedAt": "2023-11-27T11:25:47.895Z",
+    "__v": 0
+  },
+  {
+    "_id": "65647ce52433928f87a31174",
+    "description": "GOBIERNO REGIONAL",
+    "createdAt": "2023-11-27T11:26:29.360Z",
+    "updatedAt": "2023-11-27T11:26:29.360Z",
+    "__v": 0
+  },
+  {
+    "_id": "65647ce52433928f87a31260",
+    "description": "ESSALUD",
+    "createdAt": "2023-11-27T11:26:29.889Z",
+    "updatedAt": "2023-11-27T11:26:29.889Z",
+    "__v": 0
+  },
+  {
+    "_id": "65647cef2433928f87a323df",
+    "description": "MINSA",
+    "createdAt": "2023-11-27T11:26:39.056Z",
+    "updatedAt": "2023-11-27T11:26:39.056Z",
+    "__v": 0
+  }
+]
